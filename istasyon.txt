@@ -1,0 +1,49 @@
+17040	RİZE                
+17045	ARTVİN              
+17052	KIRKLARELİ          
+17070	BOLU                
+17074	KASTAMONU           
+17086	TOKAT               
+17087	TOKAT HAVALİMANI    
+17088	GÜMÜŞHANE           
+17097	KARS                
+17099	AĞRI                
+17112	ÇANAKKALE           
+17116	BURSA               
+17162	GEMEREK             
+17172	VAN BÖLGE           
+17190	AFYONKARAHİSAR BÖLGE
+17192	AKSARAY             
+17199	MALATYA             
+17239	AKŞEHİR             
+17240	ISPARTA             
+17242	BEYŞEHİR            
+17246	KARAMAN             
+17262	KİLİS               
+17285	HAKKARİ             
+17287	ŞIRNAK              
+17351	ADANA BÖLGE         
+17624	ÜNYE                
+17684	SUŞEHRİ             
+17688	TORTUM              
+17718	TERCAN              
+17720	DOĞUBEYAZIT         
+17722	BURHANİYE           
+17734	DİVRİĞİ             
+17749	KEMALPAŞA           
+17754	KULU                
+17760	BOĞAZLIYAN          
+17776	SOLHAN              
+17780	MALAZGİRT           
+17789	MENEMEN             
+17806	PALU                
+17836	DEVELİ              
+17847	ERGANİ              
+17866	GÖKSUN              
+17906	ULUKIŞLA            
+17944	BOZOVA              
+17952	ELMALI              
+17968	CEYLANPINAR TİGEM   
+17978	TARSUS              
+18333	MARDİN/ÖMERLİ       
+18519	PINARBAŞI KAR       
